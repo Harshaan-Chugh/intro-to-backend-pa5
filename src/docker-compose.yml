@@ -1,0 +1,5 @@
+services:
+  demo:
+    image: harshaan999/pa5
+    ports:
+      - "5000:5000"
