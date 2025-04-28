@@ -7,19 +7,22 @@ Your Server Address:
 Questions:
 Explain the concept of deployment in your own words.
 Deployment is the process of making an application available to be used on a system
-by many users
+by many users, rather than hosting it locally.
 
 What are environment variables?
-<Your answer here>
+Environment variables are variables with values that pass information to project files
+without hardcoding them. This allows us to hide them.
 
 What is the filename of the file where environment variables are traditionally stored?
-<Your answer here>
+.env
 
 What is the network protocol we use to access servers?
-<Your answer here>
+HTTP
 
 Explain the concept of clustering in your own words.
-<Your answer here>
+Linking multiple servers together to act as one. This enhances how much traffic we can
+handle and distributes our computing.
 
 Explain the concept of load balancing in your own words.
-<Your answer here>
+Load balancing is directing incoming traffic to multiple servers in an even manner so that
+no single server is overloaded.
