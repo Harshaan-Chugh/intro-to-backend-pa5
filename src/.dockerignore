@@ -1,0 +1,9 @@
+*.log
+dist
+build
+.env
+.env.*
+Dockerfile
+docker-compose.yml
+*.tmp
+*.swp
