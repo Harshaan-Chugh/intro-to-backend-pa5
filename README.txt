@@ -1,8 +1,8 @@
 Name: Harshaan Chugh
 NetID: hsc53
 
-Working Endpoint: <Put a working endpoint from PA 4 here (e.g. GET /api/courses/)>
-Your Server Address: 
+Working Endpoint: GET /api/courses/
+Your Server Address: 34.86.17.5
 
 Questions:
 Explain the concept of deployment in your own words.

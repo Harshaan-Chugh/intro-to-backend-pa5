@@ -194,4 +194,4 @@ def get_user(user_id):
     return json.dumps(format_user(user)), 200, {"Content-Type": "application/json"}
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000)
