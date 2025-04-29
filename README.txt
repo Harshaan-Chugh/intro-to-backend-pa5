@@ -3,7 +3,7 @@ NetID: hsc53
 
 Working Endpoint: GET /api/courses/
 Your Server Address: 34.86.17.5
-
+So, you should call 34.86.17.5/api/courses/
 Questions:
 Explain the concept of deployment in your own words.
 Deployment is the process of making an application available to be used on a system
